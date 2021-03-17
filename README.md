@@ -68,7 +68,7 @@ __Step 2: Create a new environment with your API key and Secret:__
 - `LL_API_SECRET`: Your API secret.
 - `LL_USERNAME`: Your Loopy Loyalty username (or subuser name).
 
-![Environment](img/step1-environment.png)
+![Environment](img/step2-environment.png)
 
 __Step 3: Use `{{jwt}}` in your auth header:__
 
@@ -76,7 +76,7 @@ __Step 3: Use `{{jwt}}` in your auth header:__
 
 __Step 4: Execute your API call with environment set:__
 
-![Run](img/step1-run.png)
+![Run](img/step4-run.png)
 
 ## Postman Collection
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/d3d2753c6072ae2c5b18)
