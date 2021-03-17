@@ -85,6 +85,7 @@ __Step 4: Execute your API call with environment set:__
 ## Enrol customer (public)
 URL:
 `POST https://api.loopyloyalty.com/v1/enrol/{cid}`
+
 Payload:
 ```
 {
@@ -105,6 +106,7 @@ URL:
 ## Create campaign
 URL:
 `POST https://api.loopyloyalty.com/campaign`
+
 Payload:
 ```
 {
@@ -207,6 +209,7 @@ URL:
 ## List cards
 URL:
 `POST https://api.loopyloyalty.com/card/cid/{cid}?count=false`
+
 Payload:
 ```
 {
